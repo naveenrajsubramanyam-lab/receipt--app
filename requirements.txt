@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+pytesseract
+pillow
+googletrans==4.0.0-rc1
+PyMuPDF
